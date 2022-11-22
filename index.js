@@ -1,3 +1,4 @@
+//MacOS macro
 const robot = require("robotjs");
 
 while(true){
